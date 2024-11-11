@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/cosmos-auth-frontend/static/css/main.b73d3ccc.css",
-    "main.js": "/cosmos-auth-frontend/static/js/main.be329173.js",
-    "static/js/453.91c00eb2.chunk.js": "/cosmos-auth-frontend/static/js/453.91c00eb2.chunk.js",
-    "static/media/Favorit-Medium.ttf": "/cosmos-auth-frontend/static/media/Favorit-Medium.9914556b59a21726316e.ttf",
-    "static/media/GT-Super-Display-Regular-Trial.otf": "/cosmos-auth-frontend/static/media/GT-Super-Display-Regular-Trial.9f3f04cce242ce2cc94c.otf",
-    "index.html": "/cosmos-auth-frontend/index.html",
-    "main.b73d3ccc.css.map": "/cosmos-auth-frontend/static/css/main.b73d3ccc.css.map",
-    "main.be329173.js.map": "/cosmos-auth-frontend/static/js/main.be329173.js.map",
-    "453.91c00eb2.chunk.js.map": "/cosmos-auth-frontend/static/js/453.91c00eb2.chunk.js.map"
+    "main.css": "/static/css/main.db9500d1.css",
+    "main.js": "/static/js/main.8d5146f6.js",
+    "static/js/453.91c00eb2.chunk.js": "/static/js/453.91c00eb2.chunk.js",
+    "static/media/Favorit-Medium.ttf": "/static/media/Favorit-Medium.9914556b59a21726316e.ttf",
+    "static/media/GT-Super-Display-Regular-Trial.otf": "/static/media/GT-Super-Display-Regular-Trial.9f3f04cce242ce2cc94c.otf",
+    "index.html": "/index.html",
+    "main.db9500d1.css.map": "/static/css/main.db9500d1.css.map",
+    "main.8d5146f6.js.map": "/static/js/main.8d5146f6.js.map",
+    "453.91c00eb2.chunk.js.map": "/static/js/453.91c00eb2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b73d3ccc.css",
-    "static/js/main.be329173.js"
+    "static/css/main.db9500d1.css",
+    "static/js/main.8d5146f6.js"
   ]
 }
