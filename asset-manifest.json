@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/cosmos-auth-frontend/static/css/main.b73d3ccc.css",
-    "main.js": "/cosmos-auth-frontend/static/js/main.b0ba71fe.js",
+    "main.js": "/cosmos-auth-frontend/static/js/main.0a78c3af.js",
     "static/js/453.91c00eb2.chunk.js": "/cosmos-auth-frontend/static/js/453.91c00eb2.chunk.js",
     "static/media/Favorit-Medium.ttf": "/cosmos-auth-frontend/static/media/Favorit-Medium.9914556b59a21726316e.ttf",
     "static/media/GT-Super-Display-Regular-Trial.otf": "/cosmos-auth-frontend/static/media/GT-Super-Display-Regular-Trial.9f3f04cce242ce2cc94c.otf",
     "index.html": "/cosmos-auth-frontend/index.html",
     "main.b73d3ccc.css.map": "/cosmos-auth-frontend/static/css/main.b73d3ccc.css.map",
-    "main.b0ba71fe.js.map": "/cosmos-auth-frontend/static/js/main.b0ba71fe.js.map",
+    "main.0a78c3af.js.map": "/cosmos-auth-frontend/static/js/main.0a78c3af.js.map",
     "453.91c00eb2.chunk.js.map": "/cosmos-auth-frontend/static/js/453.91c00eb2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b73d3ccc.css",
-    "static/js/main.b0ba71fe.js"
+    "static/js/main.0a78c3af.js"
   ]
 }
