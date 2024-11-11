@@ -22,7 +22,7 @@ function Login() {
                 playsInline
                 className="absolute inset-0 w-full h-full object-cover z-0 transform-none opacity-40 grainy-effect"
             >
-                <source src='/assets/video/tree.mp4' type="video/mp4" />
+                <source src={`${process.env.PUBLIC_URL}/assets/video/tree.mp4`} type="video/mp4" />
             </video>
 
             <div className="absolute top-4 left-4 z-20 p-4 flex justify-start items-start">
@@ -44,7 +44,7 @@ function Login() {
                             playsInline
                             className="w-80 h-80"
                         >
-                            <source src='/assets/video/cosmos-rock-spin.webm' type="video/mp4" />
+                            <source src={`${process.env.PUBLIC_URL}/assets/video/cosmos-rock-spin.webm`} type="video/mp4" />
 
                         </video>
                     </div>
@@ -74,7 +74,7 @@ function Login() {
                             playsInline
                             className="w-16 h-16"
                         >
-                            <source src='/assets/video/cosmos-rock-spin.webm' type="video/mp4" />
+                        <source src={`${process.env.PUBLIC_URL}/assets/video/cosmos-rock-spin.webm`} type="video/mp4" />
 
                         </video>
                     </div>
