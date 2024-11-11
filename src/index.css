@@ -1,0 +1,44 @@
+/* index.css */
+@font-face{
+    font-family: "GT Super Display";
+    src: url('../public/assets/fonts/GT-Super-Display-Regular-Trial.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: "Favorit medium";
+    src: url('../public/assets/fonts/Favorit-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+.grainy-effect {
+    filter: contrast(1.1) brightness(0.9) saturate(0.85) grayscale(0.1);
+}
+
+.relative{
+    position: relative;
+}
+
+.floating-input{
+    padding-top: 1.25rem;
+}
+
+.floating-label{
+    position: absolute;
+    top:1rem;
+    left: 1rem;
+    color: #9ca3af;
+    pointer-events: none;
+    transition: 0.2s ease all;
+}
+
+.floating-input:focus + .floating-label,
+.floating-input:not(:placeholder-shown) + .floating-label {
+    top: 0.3rem; /* Adjust to place above the input */
+    left: 1rem;
+    font-size: 0.75rem; /* Smaller font for the label when floated */
+    color: #d1d5db; /* A lighter gray or another highlight color */
+}
