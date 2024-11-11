@@ -19,7 +19,8 @@ function Signup() {
                 playsInline
                 className="absolute inset-0 w-full h-full object-cover z-0 transform-none opacity-40 grainy-effect"
             >
-                <source src={`${process.env.PUBLIC_URL}/assets/video/tree.mp4`} type="video/mp4" />
+                <source src="https://alexandranuthu.github.io/cosmos-auth-frontend/assets/video/tree.mp4" type="video/mp4" />
+
 
             </video>
 
